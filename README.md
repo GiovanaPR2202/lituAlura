@@ -1,4 +1,5 @@
 # LiterAlura: Catálogo de Livros
+![lituAluraResults.png](src%2Fmain%2Fjava%2Fcom%2Fexample%2Flitualura%2Fassets%2FlituAluraResults.png)
 
 Bem-vindo ao desafio LiterAlura, onde você terá a oportunidade de desenvolver um catálogo de livros interativo. 
 Este projeto é projetado para melhorar suas habilidades em manipulação de APIs, 
