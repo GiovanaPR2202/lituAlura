@@ -15,9 +15,12 @@ target/
 
 ### IntelliJ IDEA ###
 .idea
+.env
+src/main/java/com/example/litualura/.env
 *.iws
 *.iml
 *.ipr
+*.env
 
 ### NetBeans ###
 /nbproject/private/
